@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:BasicProject,org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch (1),org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch (2),org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch,org.eclipse.launchbar.core.descriptorType.default\:Media
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch\ (2)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:AnalogWatch/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=debug
